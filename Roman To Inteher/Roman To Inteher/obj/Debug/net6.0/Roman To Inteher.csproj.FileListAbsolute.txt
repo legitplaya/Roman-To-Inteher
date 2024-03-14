@@ -1,0 +1,15 @@
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\bin\Debug\net6.0\Roman To Inteher.exe
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\bin\Debug\net6.0\Roman To Inteher.deps.json
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\bin\Debug\net6.0\Roman To Inteher.runtimeconfig.json
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\bin\Debug\net6.0\Roman To Inteher.dll
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\bin\Debug\net6.0\Roman To Inteher.pdb
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\Roman To Inteher.csproj.AssemblyReference.cache
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\Roman To Inteher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\Roman To Inteher.AssemblyInfoInputs.cache
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\Roman To Inteher.AssemblyInfo.cs
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\Roman To Inteher.csproj.CoreCompileInputs.cache
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\Roman To Inteher.dll
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\refint\Roman To Inteher.dll
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\Roman To Inteher.pdb
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\Roman To Inteher.genruntimeconfig.cache
+C:\Users\jenya\source\repos\Roman To Inteher\Roman To Inteher\obj\Debug\net6.0\ref\Roman To Inteher.dll
